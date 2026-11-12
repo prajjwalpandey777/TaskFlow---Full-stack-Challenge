@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TASKFLOW - Smart Task Manager (Express + SQLite)",
   "main": "backend/server.js",
-  "engines": { "node": ">=18" },
+  "engines": { "node": "22.x" },
   "scripts": { "start": "node backend/server.js" },
   "dependencies": { "better-sqlite3": "^11.5.0", "express": "^4.21.0" }
 }
